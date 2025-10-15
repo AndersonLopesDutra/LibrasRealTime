@@ -1,5 +1,3 @@
-# 🇧🇷 LibrasRealTime
-
 ## 🚀 Visão Geral do Projeto
 
 O `LibrasRealTime` é um projeto de Visão Computacional em tempo real que visa explorar e aplicar técnicas de Machine Learning e Deep Learning para a detecção de gestos e características faciais. Desenvolvido em Python, utiliza as capacidades de processamento de imagem de bibliotecas líderes da indústria para interagir com a câmera do notebook.
