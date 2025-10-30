@@ -2,6 +2,8 @@
 
 O `LibrasRealTime` é um projeto de Visão Computacional em tempo real que visa explorar e aplicar técnicas de Machine Learning e Deep Learning para a detecção de gestos. Desenvolvido em Python, utiliza as capacidades de processamento de imagem de bibliotecas líderes da indústria para interagir com a câmera do notebook.
 
+![Demonstração do Rastreamento de Mão](LandsMarck%20Mão.gif)
+
 **Objetivos principais:**
 * Detectar e mapear pontos-chave (landmarks) de mãos para o futuro reconhecimento de gestos (foco inicial no alfabeto LIBRAS).
 * Servir como plataforma de estudo e prática em Ciência de Dados, Visão Computacional e Machine Learning.
